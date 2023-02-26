@@ -1,0 +1,165 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "Which items do you have?",
+        "What kinds of items are there?",
+        "What do you sell?"
+      ],
+      "responses": [
+        "We sell coffee and tea",
+        "We have coffee and tea"
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?"
+      ],
+      "responses": [
+        "We accept VISA, Mastercard and Paypal",
+        "We accept most major credit cards, and Paypal"
+      ]
+    },
+    {
+      "tag": "delivery",
+      "patterns": [
+        "How long does delivery take?",
+        "How long does shipping take?",
+        "When do I get my delivery?"
+      ],
+      "responses": [
+        "Delivery takes 2-4 days",
+        "Shipping takes 2-4 days"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    },
+    {
+      "tag": "deep",
+      "patterns": [
+        "What is the meaning of life?",
+        "What is the meaning of living?",
+        "Meaning of life?",
+        "What is life to you?",
+        "How do you interprete life?"
+      ],
+      "responses": [
+        "The meaning of life is just be alive. Its so plain and obvious and so simple. Yet everybody rushes around to accomplish something bigger than themselves. With that being said, you do you.",
+        "The meaning of life can be interpreted in almost limitless ways. But I say The meaning of life is to truly enjoy it."
+      ]
+    },
+    {
+      "tag": "Amused",
+      "patterns": [
+        "Can you tell me a joke?",
+        "Do you have a joke?",
+        "I am joking",
+        "I want a joke",
+        "I was just joking",
+        "I'm just being funny",
+        "I'm just playing with ",
+        "I'm kidding",
+        "Know any jokes?",
+        "ROFL",
+        "Tell me a joke",
+        "ah",
+        "ah ah ah",
+        "ahah",
+        "ahah lol",
+        "ahah lolhahaha funny",
+        "ahah lolhahaha funnyha",
+        "ahahah",
+        "ahahaha",
+        "funny",
+        "give me a joke",
+        "ha ha",
+        "ha ha ha",
+        "ha ha ha ha",
+        "hah",
+        "haha",
+        "haha funny",
+        "haha haha haha",
+        "haha haha hahahahaha",
+        "haha that's funny",
+        "haha very funny",
+        "hahaha very funny",
+        "he",
+        "hehe",
+        "hehehe",
+        "how funny you are",
+        "it was a joke",
+        "it's a joke",
+        "joking",
+        "just kidding",
+        "kidding",
+        "lmao",
+        "lol",
+        "say something funny",
+        "that was funny",
+        "that's funny",
+        "you are funny",
+        "you are hilarious",
+        "you are really funny",
+        "you are so funny",
+        "you are very funny",
+        "you make me laugh",
+        "you make me laugh a lot",
+        "you're a very funny bot",
+        "you're incredibly funny",
+        "you're really funny",
+        "you're so funny",
+        "you're the funniest",
+        "you're the funniest bot I've talked to"
+      ],
+      "responses": [
+        "I'm usually not that funny, but I am artificially intelligent..."
+      ]
+    }
+  ]
+}
